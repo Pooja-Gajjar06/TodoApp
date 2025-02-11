@@ -4,7 +4,10 @@
 
 A simple and intuitive Todo List application built with React Native. The app allows users to manage tasks with features like adding, deleting, filtering, and local storage persistence.
 
-![App Demo](https://drive.google.com/file/d/1hbfI81nu1jK615ekF8ufrBwMwgu0MmFK/view?usp=sharing)
+<!-- ![App Demo](https://drive.google.com/file/d/1hbfI81nu1jK615ekF8ufrBwMwgu0MmFK/view?usp=sharing) -->
+
+[![App Demo](https://img.shields.io/badge/Watch%20Demo-Click%20Here-blue)](https://drive.google.com/file/d/1hbfI81nu1jK615ekF8ufrBwMwgu0MmFK/preview)
+
 
 ## Features
 
